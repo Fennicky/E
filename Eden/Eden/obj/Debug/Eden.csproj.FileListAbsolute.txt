@@ -1,0 +1,10 @@
+c:\users\peter\onedrive\documents\visual studio 2015\Projects\Eden\Eden\bin\Debug\Eden.exe.config
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\bin\Debug\Eden.exe
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\bin\Debug\Eden.pdb
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\Eden.Properties.Resources.resources
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\Eden.csproj.GenerateResource.Cache
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\Eden.exe
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\Eden.pdb
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\GameWindow.GameWindow.resources
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\Eden.csprojResolveAssemblyReference.cache
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Debug\Eden.TradingScreen.resources

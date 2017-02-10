@@ -1,0 +1,9 @@
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\bin\Release\Eden.exe.config
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\bin\Release\Eden.exe
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\bin\Release\Eden.pdb
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Release\GameWindow.GameWindow.resources
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Release\Eden.Properties.Resources.resources
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Release\Eden.csproj.GenerateResource.Cache
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Release\Eden.exe
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Release\Eden.pdb
+C:\Users\Peter\OneDrive\Documents\Visual Studio 2015\Projects\Eden\Eden\obj\Release\Eden.csprojResolveAssemblyReference.cache
